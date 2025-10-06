@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KrishikaVansh
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning backend development and web hacking
+- 🌱 I’m currently learning backend development and ethical hacking
 - 💞️ I’m looking to collaborate on any development projects that require mern stack
 - 📫 How to reach me ...
 - 😄 Pronouns: She/Her
